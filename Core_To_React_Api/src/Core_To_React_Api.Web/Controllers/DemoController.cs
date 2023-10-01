@@ -10,7 +10,7 @@ namespace Core_To_React_Api.Web.Controllers
     {
         public IActionResult Index()
         {
-            string str = "BhAGWAAN";
+            string str = "no changes";
             return View();
         }
     }
