@@ -1,0 +1,15 @@
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\bin\Debug\net5.0\Core_To_React_Api.Core.deps.json
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\bin\Debug\net5.0\Core_To_React_Api.Core.dll
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\bin\Debug\net5.0\ref\Core_To_React_Api.Core.dll
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\bin\Debug\net5.0\Core_To_React_Api.Core.pdb
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\bin\Debug\net5.0\Core_To_React_Api.SharedKernel.dll
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\bin\Debug\net5.0\Core_To_React_Api.SharedKernel.pdb
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.csproj.AssemblyReference.cache
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.AssemblyInfoInputs.cache
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.AssemblyInfo.cs
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.csproj.CoreCompileInputs.cache
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.csproj.CopyComplete
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.dll
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\ref\Core_To_React_Api.Core.dll
+D:\Core_To_React_Api\Core_To_React_Api\src\Core_To_React_Api.Core\obj\Debug\net5.0\Core_To_React_Api.Core.pdb

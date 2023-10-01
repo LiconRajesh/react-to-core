@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+tFJKutLr83nFKodgGhSlOYA1JvlgkVNHxeAQPccwUO7CJ5A0RYb349u0vnySZe5xIkM6EA6VNbvqLGwMAADA==",
+  "success": true,
+  "projectFilePath": "D:\\Core_To_React_Api\\Core_To_React_Api\\src\\Core_To_React_Api.SharedKernel\\Core_To_React_Api.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devip\\.nuget\\packages\\ardalis.guardclauses\\3.1.0\\ardalis.guardclauses.3.1.0.nupkg.sha512",
+    "C:\\Users\\devip\\.nuget\\packages\\ardalis.specification\\5.1.0\\ardalis.specification.5.1.0.nupkg.sha512",
+    "C:\\Users\\devip\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\devip\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
